@@ -12,6 +12,22 @@ img {
   font-weight: 900;
 }
 
+.title{
+ text-align: center;
+ margin-bottom: 32px;
+}
+.flower__container{
+  display: flex;
+  justify-content: center;
+  gap:52px;
+  
+ 
+}
+.flower__item{
+text-align: center;
+width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
